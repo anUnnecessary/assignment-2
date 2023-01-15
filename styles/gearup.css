@@ -283,13 +283,23 @@
     border-radius: 8px;
     transform: rotate(90deg);
 }
+/* last line */
 
-.foot {
+.aboutm{
     position: absolute;
     width: 1400px;
     height: 100px;
     left: 240px;
     top: 4500px;
+    text-align: center;
+}
+.foot {
+    position: absolute;
+    width: 1600px;
+    height: 100px;
+    left: 240px;
+    top: 4650px;
+   
     background: #FFF4E7;
     border-radius: 8px;
 }
